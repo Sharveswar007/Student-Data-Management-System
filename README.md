@@ -1,5 +1,5 @@
 # Student Data Management System 📚
-
+ 
 ## 📌 Introduction
 The **Student Data Management System** is a Python-based project that efficiently manages student records using **CSV files**. It allows users to **add, update, delete, search, and display student records** in a structured manner.
 
